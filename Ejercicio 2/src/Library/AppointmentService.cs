@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Text;
 
 namespace Library
@@ -51,3 +51,9 @@ namespace Library
 
     }
 }
+
+En el código se creaba todo junto el paciente, el doctor y la cita, por lo tanto no cumple con Expert y SRP. Para que se cumpla debe haber una clase para el paciente(Patient), el doctor(Doctor) y la cita(Appointment).
+Además, por lo que dice la letra, debe haber una clase para que valide todo cuando se crea el paciente, el doctor y la cita.
+
+
+*/
